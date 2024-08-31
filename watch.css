@@ -1,0 +1,37 @@
+.red-text{
+    color:rgb(177, 30, 30);
+}
+body{
+    background-image: url('./Muscle\ Cars.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-weight: normal;
+}
+#I{
+    color:rgb(16, 8, 253);
+}
+#A{
+    color:red;
+}
+#II{
+    color:red;
+}
+#III{
+    color:green;
+}
+#IV{
+    color:green;
+}
+#V{
+    color:red;
+}
+#VI{
+    color:green;
+}
+#VII{
+    color:red;
+}
+#VIII{
+    color:red;
+}

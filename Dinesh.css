@@ -1,0 +1,28 @@
+img{
+    height:475px;
+    weight:290px;
+}
+body{
+    background-image: url('./bg-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.color-text{
+    color:darkblue;
+}
+#main{
+    color:green;
+}
+#orange{
+    color:orange;
+}
+#deepblue{
+    color:deepskyblue;
+}
+#blue{
+    color:blue;
+}
+#red{
+    color:red;
+}
